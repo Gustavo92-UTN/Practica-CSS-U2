@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* @Gustavo Apaza Huanca */
+body{
+    font-size: 50px;
+}
+
+.contenedor{
+    margin: 20px;
+}
+
+.CuadradoRojo, #CuadradoNegro{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.CuadradoRojo{
+    background: red;
+    color: yellow;
+}
+
+#CuadradoNegro{
+    background: black;
+    color: white;
+}
